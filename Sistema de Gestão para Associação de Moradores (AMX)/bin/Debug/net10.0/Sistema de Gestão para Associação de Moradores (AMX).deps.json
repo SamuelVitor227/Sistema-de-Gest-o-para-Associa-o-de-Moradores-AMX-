@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Sistema de Gestão para Associação de Moradores (AMX)/1.0.0": {
+        "runtime": {
+          "Sistema de Gestão para Associação de Moradores (AMX).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sistema de Gestão para Associação de Moradores (AMX)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
